@@ -1,6 +1,6 @@
 ### install regular packages
 
-install.packages(c("rmarkdown", "knitr") # for knitting
+install.packages(c("rmarkdown", "knitr")) # for knitting
 
 # install.packages("reticulate") # python support in RMarkdown
 # install.packages("tidyverse")
