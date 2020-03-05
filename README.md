@@ -2,11 +2,11 @@
 This is the material for the hands-on workshop that will introduce you to R Markdown and teach you how to impress future collaborators with the skills to produce (and reproduce) papers containing your complex computing code, eloquently written text, perplexing math equations, and funny images - all in the same document!
 
 ## Libraries
-To run this example you will need to install [rmarkdown](https://cran.r-project.org/web/packages/rmarkdown/index.html) and [knitr](https://cran.r-project.org/web/packages/knitr/index.html) `install.packages(c('rmarkdown', 'knitr'))`. We need knitr to do  nice formating of tables. 
+To run this example you will need to install [rmarkdown](https://cran.r-project.org/web/packages/rmarkdown/index.html) and [knitr](https://cran.r-project.org/web/packages/knitr/index.html) `install.packages(c('rmarkdown', 'knitr'))`. We need knitr to do  nice formating of tables.
 
 ## Data for the day
 In this example we will be looking at topical subject, which is [gender differences across UCL departments](https://www.ucl.ac.uk/srs/student-statistics). Are you courious to see which departments are most gender diverse?
-We will compare the latest figures with those for when this example was first used back in 2016-2017. 
+We will compare the latest figures with those for when this example was first used back in 2016-2017.
 The data is provided in PDF format which is a bit anoying and needs to be converted to tables, since a copy past does is not good enough for this, we used the online tool [PdfToTables](https://pdftables.com/) for the conversion. But all the converted data you will need is available in data folder of this repository.
 
 # Markdown Resources
@@ -18,3 +18,11 @@ The data is provided in PDF format which is a bit anoying and needs to be conver
 - [pdftotables - convert pdf tables to csv/xlsx](https://pdftables.com/)
 - [TeXMed - a BibTeX interface for PubMed](https://www.bioinformatics.org/texmed/)
 - [Mathematics in R markdown](https://www.calvin.edu/~rpruim/courses/s341/S17/from-class/MathinRmd.html)
+
+## Launch Binder
+
+Please click the following button if you like to use a web version of JupyterLab or RStudio with dependencies installed via [Binder](https://mybinder.readthedocs.io/en/latest/index.html) 
+
+[![Binder-JupyterLab](https://img.shields.io/badge/binder-JupyterLab-orange)](https://mybinder.org/v2/gh/ucl-ihi/CodeClub/binder?urlpath=lab)
+
+[![Binder-RStudio](https://img.shields.io/badge/binder-RStudio-blue)](https://mybinder.org/v2/gh/ucl-ihi/CodeClub/binder?urlpath=rstudio)
