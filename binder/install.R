@@ -1,9 +1,10 @@
 ### install regular packages
 
-install.packages("reticulate") # python support in RMarkdown
-install.packages("tidyverse")
-install.packages("data.table") # for plotting
-install.packages(c("rmarkdown", "caTools", "bitops")) # for knitting
+install.packages(c("rmarkdown", "knitr") # for knitting
+
+# install.packages("reticulate") # python support in RMarkdown
+# install.packages("tidyverse")
+# install.packages("data.table") # for plotting
 
 ### install bioconductor packages
 # install.packages("BiocManager")
