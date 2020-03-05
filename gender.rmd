@@ -1,0 +1,67 @@
+---
+title: "Gender stats"
+author: "Johan Thygesen"
+date: "3/5/2020"
+output:
+  html_document: default
+  pdf_document: default
+bibliography: My_Collection.bib
+---
+
+```{r setup, echo = FALSE}
+data <- read.table("data/ucl_gender_stats_2019-20.txt", header =T, quote = "", sep ="\t")
+
+library("knitr")
+```
+
+
+# Title page
+
+## Gender differences across UCL departments
+
+## Byline
+Johan Hilge Thygesen(PHD)^1\*^, code clubbers^1,2,3,4#^
+
+## Afiliation
+1. UCL IHI
+2. UCL Optomology
+3. UCL ICH
+4. UCL Psychitry
+
+# Introduction
+We will examine gender differnces across UCL Departments[@UCL2017].
+
+![UCL](img/ucl.jpg)
+
+# Method
+We will use a heiracical cluster analysis which si very __popular__, and is used by people like Zhou _et al._[-@Zhou2013].
+
+# Results
+we present data from `r nrow(data)` departments at UCL. 
+
+```{r results, echo = F}
+data$undergrad_ratio <- data$undergrad_male / data$undergrad_female
+data$graduate_ratio <- data$graduate_male / data$graduate_female
+data$total_ratio <- data$total_male / data$total_female
+data <- data[order(data$total_ratio, decreasing = T),c(1,                                            grep("ratio", names(data)))]
+kable(head(data), row.names = F, caption = "most men")
+kable(tail(data), row.names = F, caption = "most women")
+```
+
+## Clustering
+For cluster analysis it is important to remember taht
+
+```{r cluster, echo = F, fig.width=12, fig.height = 12}
+m <- as.matrix(data[, 2:ncol(data)])
+rownames(m) <- data$Department
+
+mydist <- dist(m)
+hc <- hclust(mydist)
+plot(hc, cex = 0.8)
+```
+
+# Discussion
+We did not really need any formulars in this document but, here is one just to demonstrate.
+$$\sum_{n=1}^{10} n^2$$
+
+# References

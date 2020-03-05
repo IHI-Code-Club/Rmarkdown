@@ -1,8 +1,8 @@
 # wRite your paper with R Markdown
 This is the material for the hands-on workshop that will introduce you to R Markdown and teach you how to impress future collaborators with the skills to produce (and reproduce) papers containing your complex computing code, eloquently written text, perplexing math equations, and funny images - all in the same document!
 
-## Libraries
-To run this example you will need to install [rmarkdown](https://cran.r-project.org/web/packages/rmarkdown/index.html) and [knitr](https://cran.r-project.org/web/packages/knitr/index.html) `install.packages(c('rmarkdown', 'knitr'))`. We need knitr to do  nice formating of tables. 
+## Instructions
+To run this example you will need to install [rmarkdown](https://cran.r-project.org/web/packages/rmarkdown/index.html) and [knitr](https://cran.r-project.org/web/packages/knitr/index.html) `install.packages(c('rmarkdown', 'knitr'))`. We need knitr to do  nice formating of tables. You can then open `gender.rmd` and press the knit button to render the markdown document.
 
 ## Data for the day
 In this example we will be looking at topical subject, which is [gender differences across UCL departments](https://www.ucl.ac.uk/srs/student-statistics). Are you courious to see which departments are most gender diverse?
@@ -18,3 +18,4 @@ The data is provided in PDF format which is a bit anoying and needs to be conver
 - [pdftotables - convert pdf tables to csv/xlsx](https://pdftables.com/)
 - [TeXMed - a BibTeX interface for PubMed](https://www.bioinformatics.org/texmed/)
 - [Mathematics in R markdown](https://www.calvin.edu/~rpruim/courses/s341/S17/from-class/MathinRmd.html)
+- [cite - an RStudio addin to insert BibTex citation in Rmarkdown documents](https://cran.r-project.org/web/packages/Cite/index.html)
