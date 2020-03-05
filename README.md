@@ -21,8 +21,8 @@ The data is provided in PDF format which is a bit anoying and needs to be conver
 
 ## Launch Binder
 
-Please click the following button if you like to use a web version of JupyterLab or RStudio with dependencies installed via [Binder](https://mybinder.readthedocs.io/en/latest/index.html) 
+Please click the following button if you like to use a web version of JupyterLab or RStudio with dependencies installed via [Binder](https://mybinder.readthedocs.io/en/latest/index.html)
 
-[![Binder-JupyterLab](https://img.shields.io/badge/binder-JupyterLab-orange)](https://mybinder.org/v2/gh/ucl-ihi/CodeClub/binder?urlpath=lab)
+[![Binder-JupyterLab](https://img.shields.io/badge/binder-JupyterLab-orange)](https://mybinder.org/v2/gh/IHI-Code-Club/Rmarkdown/binder?urlpath=lab)
 
-[![Binder-RStudio](https://img.shields.io/badge/binder-RStudio-blue)](https://mybinder.org/v2/gh/ucl-ihi/CodeClub/binder?urlpath=rstudio)
+[![Binder-RStudio](https://img.shields.io/badge/binder-RStudio-blue)](https://mybinder.org/v2/gh/IHI-Code-Club/Rmarkdown/binder?urlpath=rstudio)
