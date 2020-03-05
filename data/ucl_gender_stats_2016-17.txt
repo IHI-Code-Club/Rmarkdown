@@ -1,0 +1,98 @@
+Department	undergrad_male	undergrad_female	undergrad_total	graduate_male	graduate_female	graduate_total	total_male	total_female	total
+Institute of the Americas	0	0	0	59	47	106	59	47	106
+Anthropology	54	223	277	66	191	257	120	414	534
+Arts and Sciences BASc	126	309	435	0	0	0	126	309	435
+Institute of Archaeology	53	127	180	87	216	303	140	343	483
+UCL Australia	0	0	0	30	13	43	30	13	43
+Bartlett School of Architecture	154	199	353	276	332	608	430	531	961
+Bartlett School of Constrctn. & Prj. Mgmt.	88	31	119	202	175	377	290	206	496
+Bartlett School of Environment, Energy and	0	0	0	181	185	366	181	185	366
+Bartlett School of Planning	75	90	165	195	234	429	270	324	594
+Bartlett School of Graduate Studies	0	0	0	1	0	1	1	0	1
+Institute for Global Prosperity	0	0	0	2	6	8	2	6	8
+Biochemical Engineering	96	77	173	78	66	144	174	143	317
+Division of Biosciences	541	922	1463	189	259	448	730	1181	1911
+Centre for Advanced Spatial Analysis	0	0	0	50	40	90	50	40	90
+CoMPLEX	0	0	0	34	8	42	34	8	42
+Chemical Engineering	358	137	495	75	47	122	433	184	617
+Chemistry	224	231	455	146	93	239	370	324	694
+Civil, Environmental and Geomatic Eng.	226	106	332	180	101	281	406	207	613
+Computer Science	373	96	469	517	177	694	890	273	1163
+Culture, Communication and Media	0	0	0	328	896	1224	328	896	1224
+Curriculum, Pedagogy and Assessment	0	0	0	471	910	1381	471	910	1381
+Development Planning Unit	0	0	0	84	193	277	84	193	277
+Earth Sciences	84	69	153	57	60	117	141	129	270
+Economics	549	309	858	120	69	189	669	378	1047
+Education, Practice and Society	30	207	237	322	803	1125	352	1010	1362
+UCL Institute of Education	1	6	7	30	53	83	31	59	90
+Electronic and Electrical Engineering	316	71	387	149	60	209	465	131	596
+English Language and Literature	90	181	271	39	58	97	129	239	368
+European Social and Political Studies	109	171	280	0	0	0	109	171	280
+Slade School of Fine Art	67	98	165	29	87	116	96	185	281
+Gatsby Computational Neuroscience Unit	0	0	0	8	7	15	8	7	15
+Geography	143	205	348	108	148	256	251	353	604
+Institute for Global Health	18	27	45	16	93	109	34	120	154
+Greek and Latin	79	94	173	14	33	47	93	127	220
+Institute of Health Informatics	0	0	0	55	56	111	55	56	111
+Hebrew and Jewish Studies	14	17	31	12	6	18	26	23	49
+History	260	316	576	70	79	149	330	395	725
+History of Art	24	160	184	10	68	78	34	228	262
+Humanities and Social Sciences	0	0	0	1	0	1	1	0	1
+Information Studies	0	0	0	55	163	218	55	163	218
+Centre for Languages and International Educ	75	100	175	0	0	0	75	100	175
+Laws	241	332	573	194	300	494	435	632	1067
+London Centre for Leadership in Learning	0	0	0	4	2	6	4	2	6
+Learning and Leadership	9	79	88	275	1014	1289	284	1093	1377
+Lifelong and Comparative Education	0	0	0	1	1	2	1	1	2
+Faculty of Life Sciences	0	0	0	3	2	5	3	2	5
+UCL School of Management	327	297	624	164	196	360	491	493	984
+Mathematics	341	300	641	84	39	123	425	339	764
+Mechanical Engineering	423	79	502	157	70	227	580	149	729
+Medical Physics and Biomedical Engineeri	62	58	120	92	73	165	154	131	285
+Laboratory for Molecular Cell Biology	0	0	0	11	19	30	11	19	30
+Centre for Multidisciplinary and Intercultura	0	0	0	64	238	302	64	238	302
+Natural Sciences	232	192	424	7	4	11	239	196	435
+School of Pharmacy	254	538	792	184	488	672	438	1026	1464
+Philosophy	100	92	192	47	29	76	147	121	268
+Physics and Astronomy	433	149	582	181	46	227	614	195	809
+Political Science	56	52	108	218	289	507	274	341	615
+Psychology and Human Development	19	92	111	77	655	732	96	747	843
+Division of Psychology and Language Scien	123	509	632	270	995	1265	393	1504	1897
+UCL Qatar	0	0	0	15	49	64	15	49	64
+Security and Crime Science	8	12	20	94	124	218	102	136	238
+School of European Languages, Culture and	224	631	855	22	35	57	246	666	912
+SSEES - School of Slavonic and East Europ	329	392	721	121	137	258	450	529	979
+Science and Technology Studies	32	53	85	26	37	63	58	90	148
+Science, Technology, Engineering and Publi	0	0	0	14	15	29	14	15	29
+Social Science	24	56	80	50	120	170	74	176	250
+Space and Climate Physics	0	0	0	70	26	96	70	26	96
+Statistical Science	171	190	361	111	71	182	282	261	543
+Sainsbury Wellcome Centre for Neural Circ	0	0	0	3	1	4	3	1	4
+Division of Psychiatry	0	0	0	29	133	162	29	133	162
+Faculty of Brain Sciences	0	0	0	0	9	9	0	9	9
+Cancer Institute	0	0	0	41	74	115	41	74	115
+Institute of Cardiovascular Science	0	0	0	33	25	58	33	25	58
+Institute of Child Health	5	14	19	79	292	371	84	306	390
+Institute of Clinical Trials and Methodology	0	0	0	9	27	36	9	27	36
+Ear Institute	0	0	0	25	73	98	25	73	98
+Eastman Dental Institute	0	0	0	157	224	381	157	224	381
+Institute of Epidemiology and Health Care	9	23	32	53	162	215	62	185	247
+Division of Infection and Immunity	12	9	21	36	63	99	48	72	120
+UCL Medical School	856	872	1728	62	110	172	918	982	1900
+Division of Medicine	55	112	167	94	165	259	149	277	426
+Institute of Neurology	0	0	0	218	228	446	218	228	446
+Institute of Ophthalmology	0	0	0	52	89	141	52	89	141
+Division of Surgery and Interventional Scie	11	3	14	282	232	514	293	235	528
+Institute for Women's Health	2	11	13	14	60	74	16	71	87
+Arts and Humanities	956	1796	2752	306	685	991	1262	2481	3743
+Brain Sciences	123	509	632	594	1528	2122	717	2037	2754
+Built Environment	317	320	637	991	1165	2156	1308	1485	2793
+Engineering Sciences	2189	933	3122	1584	950	2534	3773	1883	5656
+Institute of Education	83	440	523	1560	4454	6014	1643	4894	6537
+Laws	241	332	573	194	300	494	435	632	1067
+Life Sciences	795	1460	2255	399	775	1174	1194	2235	3429
+Mathematical and Physical Sciences	1517	1184	2701	682	376	1058	2199	1560	3759
+Medical Sciences	934	996	1930	670	868	1538	1604	1864	3468
+Office for International Affairs	0	0	0	15	49	64	15	49	64
+Population Health Sciences	34	75	109	259	715	974	293	790	1083
+Social and Historical Sciences	1396	1681	3077	835	1208	2043	2231	2889	5120
