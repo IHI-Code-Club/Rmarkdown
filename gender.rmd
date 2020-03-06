@@ -6,6 +6,7 @@ output:
   html_document: default
   pdf_document: default
 bibliography: My_Collection.bib
+csl: BJP.csl
 ---
 
 ```{r setup, echo = FALSE}
@@ -13,7 +14,6 @@ data <- read.table("data/ucl_gender_stats_2019-20.txt", header =T, quote = "", s
 
 library("knitr")
 ```
-
 
 # Title page
 
@@ -43,13 +43,15 @@ we present data from `r nrow(data)` departments at UCL.
 data$undergrad_ratio <- data$undergrad_male / data$undergrad_female
 data$graduate_ratio <- data$graduate_male / data$graduate_female
 data$total_ratio <- data$total_male / data$total_female
-data <- data[order(data$total_ratio, decreasing = T),c(1,                                            grep("ratio", names(data)))]
-kable(head(data), row.names = F, caption = "most men")
-kable(tail(data), row.names = F, caption = "most women")
+data <- data[order(data$total_ratio, decreasing = T),c(1, grep("ratio", names(data)))]
+kable(head(data), row.names = F, caption = "Table1: Department with most men")
+kable(tail(data), row.names = F, caption = "Table2: Department with most women")
 ```
 
 ## Clustering
-For cluster analysis it is important to remember taht
+For cluster analysis it is important to remember that 
+* We should use continous variables 
+* We should standardise data if types or ranges are different
 
 ```{r cluster, echo = F, fig.width=12, fig.height = 12}
 m <- as.matrix(data[, 2:ncol(data)])

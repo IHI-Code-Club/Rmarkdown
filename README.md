@@ -19,3 +19,4 @@ The data is provided in PDF format which is a bit anoying and needs to be conver
 - [TeXMed - a BibTeX interface for PubMed](https://www.bioinformatics.org/texmed/)
 - [Mathematics in R markdown](https://www.calvin.edu/~rpruim/courses/s341/S17/from-class/MathinRmd.html)
 - [cite - an RStudio addin to insert BibTex citation in Rmarkdown documents](https://cran.r-project.org/web/packages/Cite/index.html)
+- [Github - repo of citation style formats](https://github.com/citation-style-language/styles)
